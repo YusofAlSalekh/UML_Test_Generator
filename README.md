@@ -1,6 +1,7 @@
 # UML_Test_Generator
 Bachelor's Graduation Project
-Subject: Development of tests from the UML-models of applications
+Subject: Development of tests from the UML-models of applications.
+
 One of the recognized principles behind the organization of software engineering processes is the "Tests first principle" — that is, the initial development of software product tests is carried out in parallel with its design and construction, as soon as the product requirements are specified. In such software product lifecycle models, such as RUP, a UML model is an integral part of the requirements for a software product. The UML model is a formalized artifact suitable for automated analysis and eventual transformation into a program by a programmer.
 Thorough and effective testing is necessary to create high-quality and reliable software projects. Therefore, test development is an important task throughout the design of a software project. The main purpose of testing is to cover as many errors in the software project as possible. In addition, manual testing of large software projects requires a lot of time and labor. In this regard, the automated design of test cases is a very important activity in the process of testing software projects. Using the UML activity diagram, it is possible to generate test cases automatically.
 The purpose of the final qualifying work is to create a software product — a test generator in the Java programming language that is capable of developing tests for a UML activity diagram of a software product presented in XML format.
