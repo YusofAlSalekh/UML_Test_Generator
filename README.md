@@ -1,5 +1,5 @@
 # UML_Test_Generator
-Bachelor's Graduation Project
+Bachelor's Graduation Project.
 Subject: Development of tests from the UML-models of applications.
 
 One of the recognized principles behind the organization of software engineering processes is the "Tests first principle" — that is, the initial development of software product tests is carried out in parallel with its design and construction, as soon as the product requirements are specified. In such software product lifecycle models, such as RUP, a UML model is an integral part of the requirements for a software product. The UML model is a formalized artifact suitable for automated analysis and eventual transformation into a program by a programmer.
